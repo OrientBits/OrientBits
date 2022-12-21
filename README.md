@@ -6,7 +6,7 @@
 
 - 🌱 CoderNeverQuit 🚀
 
-- 💬 Ask me about **Java, Spring Boot, Hibernate and TypeScript, Angular**
+- 💬 Ask me about **Java, Spring Boot and TypeScript, Angular**
 
 - 🎥 I regularly post video on **<a href="https://www.youtube.com/OrientBits" target="_blank">YouTube</a>** 
 
