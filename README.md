@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm<a href="https://www.linkedin.com/in/ramshekrana/" target="_blank"> Ramshek Rana</a></h1>
-<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Full+Stack+developer+from+India" alt="Typing SVG" /></a>
+<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Full+Stack+developer+from+Kolkata,India" alt="Typing SVG" /></a>
  </h3>
 
 
