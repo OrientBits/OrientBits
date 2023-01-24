@@ -6,7 +6,7 @@
 
 - 🌱 CoderNeverQuit 🚀
 
-- 💬 Ask me about **Java, Spring Boot, JavaScript, Angular, Dart and Flutter**
+- 💬 Ask me about **Java, Spring Boot, JavaScript, React, Dart and Flutter**
 
 - 🎥 I regularly post video on **<a href="https://www.youtube.com/OrientBits" target="_blank">YouTube</a>** 
 
